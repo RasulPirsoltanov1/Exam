@@ -1,0 +1,46 @@
+﻿@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+}
+@using Exam.Core.Entities
+@model IEnumerable<TeamMemmber>
+
+<div class="card" style="width:100%">
+    <div class="card-body">
+        <h4 class="card-title">Striped Table</h4>
+        <p class="card-description">
+            Add class <code>.table-striped</code>
+        </p>
+        <div class="table-responsive">
+            <table class="table table-striped">
+                <thead>
+                    <tr>
+                        <th>
+                            User
+                        </th>
+                        <th>
+                            First name
+                        </th>
+                        <th>
+                            About
+                        </th>
+                        <th>
+                            Position
+                        </th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model)
+                    {
+                        <tr>
+                            <td><img src="@item.Photo"/></td>
+                            <td>@item.Name</td>
+                            <td>@item.About</td>
+                            <td>@item.Position</td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>

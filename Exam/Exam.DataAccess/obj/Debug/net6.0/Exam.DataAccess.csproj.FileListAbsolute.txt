@@ -1,0 +1,17 @@
+C:\Users\Classtime\source\repos\Exam\Exam.DataAccess\bin\Debug\net6.0\Exam.DataAccess.deps.json
+C:\Users\Classtime\source\repos\Exam\Exam.DataAccess\bin\Debug\net6.0\Exam.DataAccess.runtimeconfig.json
+C:\Users\Classtime\source\repos\Exam\Exam.DataAccess\bin\Debug\net6.0\Exam.DataAccess.dll
+C:\Users\Classtime\source\repos\Exam\Exam.DataAccess\bin\Debug\net6.0\Exam.DataAccess.pdb
+C:\Users\Classtime\source\repos\Exam\Exam.DataAccess\bin\Debug\net6.0\Exam.Core.dll
+C:\Users\Classtime\source\repos\Exam\Exam.DataAccess\bin\Debug\net6.0\Exam.Core.pdb
+C:\Users\Classtime\source\repos\Exam\Exam.DataAccess\obj\Debug\net6.0\Exam.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Classtime\source\repos\Exam\Exam.DataAccess\obj\Debug\net6.0\Exam.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Classtime\source\repos\Exam\Exam.DataAccess\obj\Debug\net6.0\Exam.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Classtime\source\repos\Exam\Exam.DataAccess\obj\Debug\net6.0\Exam.DataAccess.AssemblyInfo.cs
+C:\Users\Classtime\source\repos\Exam\Exam.DataAccess\obj\Debug\net6.0\Exam.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Classtime\source\repos\Exam\Exam.DataAccess\obj\Debug\net6.0\Exam.DataAccess.csproj.CopyComplete
+C:\Users\Classtime\source\repos\Exam\Exam.DataAccess\obj\Debug\net6.0\Exam.DataAccess.dll
+C:\Users\Classtime\source\repos\Exam\Exam.DataAccess\obj\Debug\net6.0\refint\Exam.DataAccess.dll
+C:\Users\Classtime\source\repos\Exam\Exam.DataAccess\obj\Debug\net6.0\Exam.DataAccess.pdb
+C:\Users\Classtime\source\repos\Exam\Exam.DataAccess\obj\Debug\net6.0\Exam.DataAccess.genruntimeconfig.cache
+C:\Users\Classtime\source\repos\Exam\Exam.DataAccess\obj\Debug\net6.0\ref\Exam.DataAccess.dll
